@@ -1,22 +1,22 @@
 {
-  "name": "nodeapplication",
+  "name": "elearning",
   "version": "1.0.0",
-  "description": "new app",
+  "description": "This repository consist of node js application for End Module Exam",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrathameshChavan20/NodeaApp.git"
+    "url": "git+https://github.com/PrathameshChavan20/elearning.git"
   },
-  "author": "",
+  "author": "Prathamesh Chavan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PrathameshChavan20/NodeaApp/issues"
+    "url": "https://https://github.com/PrathameshChavan20/elearning/issues"
   },
-  "homepage": "https://github.com/PrathameshChavan20/NodeaApp#readme",
+  "homepage": "https://https://github.com/PrathameshChavan20/elearning#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.1"
   }
 }
